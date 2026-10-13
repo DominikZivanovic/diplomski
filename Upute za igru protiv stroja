@@ -1,0 +1,15 @@
+UPUTE ZA IGRU PROTIV STROJA:
+
+1. Otvoriti folder Kod
+2. Pokrenuti datoteku Crtanje_ploce.py
+3. Ako je cilj igrati protiv različitih verzija stroja:
+   - u preambuli datoteke Crtanje_ploce.py je po defaultu protivnik Stroj_0 (kompletni stroj)
+   - protivnik se mijenja ažuriranjem datoteke Crtanje_ploce.py u preambuli:
+     from Stroj_0 import vrati_najbolji_potez -----> from BezSDS import vrati najbolji_potez
+     ako je cilj igrati protiv verzije stroja bez stacionarne distribuije skakača (SDS);
+   - analogno za ostale protivnike:
+     BezAB = stroj bez alfa-beta rezanja
+     BezSORT = stroj bez move orderinga
+     BezTT = stroj bez transpozicijskih tablica
+     BezNP = stroj bez nemirnog pretraživanja
+     BezSDS = stroj bez stacionarne distribucije skakača
