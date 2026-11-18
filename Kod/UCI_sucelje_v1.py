@@ -1,6 +1,7 @@
 import sys
 import chess
-import Stroj_0 as engine
+import Stroj as engine #Prvi igrač za turnir
+
 
 
 def obradi_poziciju(dijelovi: list) -> chess.Board:
