@@ -6,7 +6,7 @@ U folderu "Upute za igru protiv stroja" nalaze se upute za pokretanje igre proti
 objašnjenje kako promijeniti verziju stroja protiv koje se igra.
 
 U folderu "Kod" nalaze se sljedeće datoteke:
-- folder "Otvaranja" koji služi za učitavanje knjige otvaranja
+- folder "Otvaranja" koji sadrži knjigu otvaranja
 - datoteka "Crtanje_ploce.py" koji je glavni kod za pokretanje igre protiv stroja
 - datoteka "Figura_polje_tablice.py" koja sadrži tablice s bonusima za figure ovisno o polju na kojem se nalaze
 - datoteka "Polyglot.py" koja implementira knjigu otvaranja u sam stroj
