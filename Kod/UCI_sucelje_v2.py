@@ -5,6 +5,7 @@ import Stroj as engine #Za odabrati drugog igrača za turnir potrebno je promije
 #Tada bismo stroj učitali s: import Stroj2 as engine
 
 
+
 def obradi_poziciju(dijelovi: list) -> chess.Board:
 
     if dijelovi[1] == "startpos":
