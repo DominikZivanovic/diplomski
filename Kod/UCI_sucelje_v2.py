@@ -1,6 +1,8 @@
 import sys
 import chess
-import BezSORT as engine
+import Stroj as engine #Za odabrati drugog igrača za turnir potrebno je promijeniti "Stroj" s imenom drugog stroja.
+#Npr., napraviti copy paste datoteke Stroj s promijenjenim Booleovim varijablama za odabir verzije i nazvati datoteku "Stroj2.py".
+#Tada bismo stroj učitali s: import Stroj2 as engine
 
 
 def obradi_poziciju(dijelovi: list) -> chess.Board:
