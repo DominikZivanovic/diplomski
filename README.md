@@ -15,4 +15,4 @@ U folderu "Upute za igru protiv stroja" nalaze se upute za pokretanje igre proti
 objašnjenje kako promijeniti verziju stroja protiv koje se igra.
 
 NAPOMENA: Datoteke "Crtanje_ploce.py", "UCI_sucelje_v1.py" i "UCI_sucelje_v2.py" su velikim dijelom kreirane u Claudeu. Kasnije sam ih samostalno dorađivao i prilagođavao vlastitim potrebama.
-One nisu integralni dio rada, već isključivo služe kao sredstvo za vizualizaciju i pravilno pokretanje Cute Chessa (softvera za pokretanje turnira strojeva).
+One nisu integralni dio rada, već isključivo služe kao sredstvo za vizualizaciju ploče te pravilno pokretanje Cute Chessa (softvera za pokretanje turnira strojeva).
