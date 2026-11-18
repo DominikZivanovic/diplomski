@@ -21,7 +21,7 @@ PIJUN_RANG_BONUS = [
      0,  0,  0,  0,  0,  0,  0,  0
 ]
 
-'''Ako koristimo mobilnost skakača koja ne ovisi o poziciji, nego o poljima
+'''Ako koristimo mobilnost skakača koja ne ovisi o ostalim figurama
 SKAKAC_MOBILNOST_20X = [
     -65,-45,-25,-25,-25,-25,-45,-65,
     -45,-25, 15, 15, 15, 15,-25,-45,
