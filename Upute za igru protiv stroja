@@ -2,9 +2,8 @@ UPUTE ZA IGRU PROTIV STROJA:
 
 1. Otvoriti folder "Kod"
 2a. Pokrenuti datoteku "Crtanje_ploce.py"
-2b. Ako je cilj igrati protiv različitih verzija stroja:
+2b. Defaultna verzija je ona bez stacionarne distribucije skakača jer je najjača. Ako je cilj igrati protiv ostalih verzija stroja:
    - Otvoriti "Stroj.py"
    - Pri početku datoteke promijeniti Booleove varijable za zadržavanje ili odbacivanje željenih modifikacija
    - Spremiti promijenjen kod
    - Pokrenuti datoteku "Crtanje_ploce.py"
-   
