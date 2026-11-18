@@ -1,4 +1,4 @@
-U ovom repozitoriju se nalaze sve datoteke koje su bile potrebne za implementaciju diplomskog rada u Python.
+U ovom repozitoriju nalaze se sve datoteke koje su bile potrebne za implementaciju diplomskog rada u Python.
 
 U folderu "Slike figura" nalaze se slike figura koje se prikazuju na ploči tijekom igre protiv stroja.
 
